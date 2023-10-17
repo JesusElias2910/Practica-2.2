@@ -19,7 +19,7 @@ Lenguaje: Phyton
 ```
 ```
 
-**Resultados**
+**Resultados**  
 Calor
 ![](Imagenes/calor.jpg)  
 
