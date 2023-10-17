@@ -20,9 +20,12 @@ Lenguaje: Phyton
 ```
 
 **Resultados**
+Calor
 ![](Imagenes/calor.jpg)  
 
+Cálido
 ![](Imagenes/temp.jpg)  
 
+Frío
 ![](Imagenes/frio.jpg)  
 
