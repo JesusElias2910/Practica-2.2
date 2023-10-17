@@ -9,7 +9,7 @@ Fecha de entrega:   16/10/2023
 Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la pantalla oled con su propio sensor de temperatura  
 
 **Modelado en wokwi**  
-![]()  
+![](Imaganes/modelado.png)  
 
 **Conexiones (en físico)**  
 ![]() 
