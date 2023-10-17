@@ -12,7 +12,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 ![](Imagenes/modelado.png)  
 
 **Conexiones (en físico)**  
-![]() 
+![](Imagenes/conec.jpg) 
 
 **Código de thonny**   
 Lenguaje: Phyton
@@ -20,4 +20,9 @@ Lenguaje: Phyton
 ```
 
 **Resultados**
-![]()   
+![](Imagenes/calor.jpg)  
+
+![](Imagenes/temp.jpg)  
+
+![](Imagenes/frio.jpg)  
+
